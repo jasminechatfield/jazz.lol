@@ -5,7 +5,7 @@ title: "Jasmine Chatfield"
 
 <div class="hello" markdown="1">
 
-<img src="{{}}/assets/img/helloleft.png" class=" hello hello-left">
+<img src="{{ "/assets/img/helloleft.png" | relative_url }}" class=" hello hello-left">
 
 <img src="{{ "/assets/img/helloright.png" | relative_url }}" class="hello hello-right">
 

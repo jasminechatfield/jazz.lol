@@ -2,6 +2,7 @@ $backgroundColor: #386b55;
 $bodyColor: #000000;
 $bodyFont: garamond-premier-pro, serif;
 $mainColor: #c8d5b5;
+$baseURL: "http://jasminechatfield.github.io/jazz.lol/";
 
 html {
    font-size: 22px;
@@ -37,7 +38,7 @@ h3 {
 .header {
    width: 1300px;
    height: 600px;
-   background-image: url("/assets/img/header.png");
+   background-image: url($baseURL + "/assets/img/header.png");
    background-size: contain;
    margin: auto;
    position: relative;
@@ -46,7 +47,7 @@ h3 {
       width: 200px;
       height: 200px;
       position: absolute;
-      background-image: url("/assets/img/homesplotch.png");
+      background-image: url($baseURL + "/assets/img/homesplotch.png");
       background-size: 0%;
       background-repeat: no-repeat;
       transition: background-size 0.5s;
@@ -114,15 +115,15 @@ main {
 }
 
 .page-writing .subheader-img img {
-   shape-outside: url(/assets/img/writingheader.png);
+   shape-outside: url($baseURL + "/assets/img/writingheader.png");
 }
 
 .page-performance .subheader-img img {
-   shape-outside: url(/assets/img/performanceheader.png);
+   shape-outside: url($baseURL + "/assets/img/performanceheader.png");
 }
 
 .page-me .subheader-img img {
-   shape-outside: url(/assets/img/meheader.png);
+   shape-outside: url($baseURL + "/assets/img/meheader.png");
 }
 
 .hello {
@@ -169,7 +170,7 @@ a {
 }
 
 .blog {
-   background-image: url("/assets/img/blogbackground.jpg");
+   background-image: url($baseURL + "/assets/img/blogbackground.jpg");
    padding: 50px;
 }
 

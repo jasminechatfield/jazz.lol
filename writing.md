@@ -47,7 +47,7 @@ I've written a few book reviews and I'd like to write more. I'm also available t
 #### [micro-collection published by Rinky Dink Press](https://rinkydinkpress.com/throat-thing-excerpt/){:target="\_blank"}
 
 <div class="has-image" markdown="1">
-![Photo of throat thing](assets/img/throatthing.jpg)
+<img src="{{ "assets/img/throatthing.jpg" | relative_url }}">
 
 > my dear gurgle &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sweet hyena
 >
