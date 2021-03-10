@@ -23,11 +23,11 @@ Oh no I just finished writing this and realised I should mention what skills I h
 
 ### React, Javascript, HTML, CSS, Photoshop
 
-Flutter,
+Flutter, Jekyll (which this website is made in), more (WIP)
 
 ## Things I'm working on
 
-### that I'm pretty sure I can pick up
+### that I'm hopeful I can pick up
 
 I know a tiny bit of C# and Ruby. I'm learning Unity to make games.
 

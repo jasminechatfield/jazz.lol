@@ -9,4 +9,4 @@ title: "Me"
 
 I have a phobia of slugs, and mushrooms that grow in the ground. I'm mildly afraid of doors.
 
-This website is still under construction, but at some point I had to call it for now. I'll be back to it. Please have a browse!
+This website is still under construction. I'll be back to it. Please have a browse!

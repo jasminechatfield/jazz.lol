@@ -3,9 +3,11 @@ layout: default
 title: "Writing"
 ---
 
-## I write poems, short stories, novels, scripts, essays and reviews.
+## I like to write
 
-### I've had a few things published and won a Northern Writers Award in 2017.
+### poems, short stories, novels, scripts, essays and reviews.
+
+I've had a few things published and won a Northern Writers Award in 2017.
 
 I have also worked as a copywriter and funding bid writer.
 
@@ -32,46 +34,47 @@ I've written a few book reviews and I'd like to write more. I'm also available t
 
 #### [4 poems in the New North Poets anthology](https://issuu.com/poetryschool/docs/gasp_-_new_north_poets){:target="\_blank"}
 
-<div class="quotation">“</div>
-I am in the breakfast cafe. I order the sleeping pills
-<div class="quotation">”</div>
+> I am in the breakfast cafe. I order the sleeping pills
 
-### The Chilean Flag Forces Herself to be More than a Flag
+### [The Chilean Flag Forces Herself to be More than a Flag](https://www.modernpoetryintranslation.com/the-chilean-flag-forces-herself-to-be-more-than-a-flag/){:target="\_blank"}
 
-#### review of The Chilean Flag by Elvira Hernández, translated by Alec Schumacher, Kenning Editions, 2019
+#### [review of The Chilean Flag by Elvira Hernández, translated by Alec Schumacher, Kenning Editions, 2019](https://www.modernpoetryintranslation.com/the-chilean-flag-forces-herself-to-be-more-than-a-flag/){:target="\_blank"}
 
-The flag was originally a symbol of the country’s independence from Spanish rule. That the flag came to be used against the population is a common form of political control. Schumacher draws a comparison between how the Chilean flag became a tool for oppression, and how black US athletes today can lose their jobs for refusing to stand for the national anthem – in both cases, patriotism is used against citizens to bend them to the will of the ruling class. In the UK, the British flag has become somewhat synonymous with the Leave campaign, supporters of ‘Brexit’ and the rise of nationalism and fascism in the country. Symbols of unity too easily become corrupted and used against the people they represent.
+> Elvira Hernández’ detainment and torture for five days by the military dictatorship of Augusto Pinochet in 1979 was accidental, a case of mistaken identity, but in the years that followed the regime continued to monitor her. Feeling watched, Hernández (real name María Teresa Adriasola) wrote _La bandera de Chile_, a poem that eschews the personal in favour of the collective and that spoke to the heart of oppression in Chile. For a decade, the poem was mimeographed and passed around, before finally being published more widely in 1991 after the end of the Pinochet regime.
 
-### Throat Thing
+### [Throat Thing](https://rinkydinkpress.com/throat-thing-excerpt/){:target="\_blank"}
 
-#### micro-collection published by Rinky Dink Press
+#### [micro-collection published by Rinky Dink Press](https://rinkydinkpress.com/throat-thing-excerpt/){:target="\_blank"}
 
-my dear gurgle &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sweet hyena
+<div class="has-image" markdown="1">
+![Photo of throat thing](assets/img/throatthing.jpg)
 
-you always purr &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;before you roar
+> my dear gurgle &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sweet hyena
+>
+> you always purr &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;before you roar
+>
+> clean and lonely &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;never full
+>
+> it just rolls out of me &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;like rage
+>
+> you are just air &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in the wrong place
+>
+> emptiness but &nbsp;&nbsp;&nbsp;the opposite of space
 
-clean and lonely &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;never full
+</div>
+### [3 poems](https://www.neonmagazine.co.uk/neon-literary-magazine-thirty-nine/){:target="\_blank"}
 
-it just rolls out of me &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;like rage
+#### [Neon Magazine](https://www.neonmagazine.co.uk/neon-literary-magazine-thirty-nine/){:target="\_blank"}
 
-you are just air &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in the wrong place
+> Baby teeth were never lost
+> but others nestled in the hollows
 
-emptiness but &nbsp;&nbsp;&nbsp;the opposite of space
+### [Poland in Russia in England](https://www.nous-magazine.de/worldsapart)
 
-### 3 poems
+#### [Poem in NOUS magazine](https://www.nous-magazine.de/worldsapart)
 
-#### Neon Magazine
-
-Baby teeth were never lost
-
-but others nestled in the hollows
-
-### Poland in Russia in England
-
-#### poem in NOUS magazine
-
-As heat sources they kept rovers warm on the moon.
-
-The green tea, when delivered to me, was already cold.
+> As heat sources they kept rovers warm on the moon.
+>
+> The green tea, when delivered to me, was already cold.
 
 </div>

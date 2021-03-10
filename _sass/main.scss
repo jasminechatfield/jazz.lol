@@ -170,6 +170,7 @@ a {
 
 .blog {
    background-image: url("/assets/img/blogbackground.jpg");
+   padding: 50px;
 }
 
 .blog-name {
@@ -198,28 +199,51 @@ a {
       border-bottom-style: solid;
    }
    p {
-      margin-left: 50%;
       margin-block-end: 0;
       margin-bottom: 0;
       margin-top: 0px;
       line-height: 1.5;
+      display: block;
    }
-}
-
-.quotation {
-   margin-left: calc(50% - 40px);
-   font-size: 100px;
-   margin-bottom: -80px;
+   .has-image {
+      height: 550px;
+      blockquote {
+         margin-left: 0;
+         display: inline-block;
+         margin-bottom: 100px;
+         p {
+            display: block;
+         }
+      }
+      img {
+         width: 300px;
+         margin-right: 200px;
+         margin-left: 100px;
+         margin-top: 50px;
+         margin-bottom: 50px;
+      }
+      p {
+         display: inline-block;
+      }
+   }
 }
 
 blockquote {
+   margin-left: 50%;
+   margin-right: 10px;
+   margin-top: -80px;
+   margin-bottom: -80px;
    &:before {
       content: "“";
-      margin-left: calc(50% - 40px);
+      margin-left: -40px;
+      top: 70px;
+      position: relative;
    }
    &:after {
       content: "”";
-      margin-left: calc(100% - 30px);
+      margin-left: calc(90%);
+      bottom: 10px;
+      position: relative;
    }
    &:before,
    &:after {
