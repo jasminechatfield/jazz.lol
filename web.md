@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: "web"
 ---
 
 ## I'm a developer who likes making creative, accessible and simple websites.

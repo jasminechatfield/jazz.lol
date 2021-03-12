@@ -28,7 +28,7 @@ h3 {
 .header {
   width: 1300px;
   height: 600px;
-  background-image: url("http://jasminechatfield.github.io/jazz.lol/assets/img/header.png");
+  background-image: url("/assets/img/header.png");
   background-size: contain;
   margin: auto;
   position: relative; }
@@ -36,7 +36,7 @@ h3 {
     width: 200px;
     height: 200px;
     position: absolute;
-    background-image: url("http://jasminechatfield.github.io/jazz.lol/assets/img/homesplotch.png");
+    background-image: url("/assets/img/homesplotch.png");
     background-size: 0%;
     background-repeat: no-repeat;
     transition: background-size 0.5s;
@@ -84,13 +84,19 @@ main {
   position: relative; }
 
 .page-writing .subheader-img img {
-  shape-outside: url("http://jasminechatfield.github.io/jazz.lol/assets/img/writingheader.png"); }
+  shape-outside: url("/assets/img/writingheader.png"); }
 
 .page-performance .subheader-img img {
-  shape-outside: url("http://jasminechatfield.github.io/jazz.lol/assets/img/performanceheader.png"); }
+  shape-outside: url("/assets/img/performanceheader.png"); }
 
 .page-me .subheader-img img {
-  shape-outside: url("http://jasminechatfield.github.io/jazz.lol/assets/img/meheader.png"); }
+  shape-outside: url("/assets/img/meheader.png"); }
+
+.page-contact .subheader-img img {
+  shape-outside: url("/assets/img/contactheader.png"); }
+
+.page-web .subheader-img img {
+  shape-outside: url("/assets/img/webheader.png"); }
 
 .hello {
   width: 500px;
@@ -122,7 +128,7 @@ a {
   text-decoration: none; }
 
 .blog {
-  background-image: url("http://jasminechatfield.github.io/jazz.lol/assets/img/blogbackground.jpg");
+  background-image: url("/assets/img/blogbackground.jpg");
   padding: 50px; }
 
 .blog-name {

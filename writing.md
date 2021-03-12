@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Writing"
+title: "writing"
 ---
 
 ## I like to write
@@ -46,8 +46,8 @@ I've written a few book reviews and I'd like to write more. I'm also available t
 
 #### [micro-collection published by Rinky Dink Press](https://rinkydinkpress.com/throat-thing-excerpt/){:target="\_blank"}
 
-<div class="has-image" markdown="1">
-<img src="{{ "assets/img/throatthing.jpg" | relative_url }}">
+<div class="has-image" markdown="1"><a href="https://rinkydinkpress.com/throat-thing-excerpt" target="_blank">
+<img src="/assets/img/throatthing.jpg">
 
 > my dear gurgle &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sweet hyena
 >

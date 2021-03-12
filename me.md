@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Me"
+title: "me"
 ---
 
 ## Hello, I am Jasmine or Jazz.

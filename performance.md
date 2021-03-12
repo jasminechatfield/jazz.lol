@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Performance"
+title: "performance"
 ---
 
 ## I make immersive performances that are strange, engaging and fun.
