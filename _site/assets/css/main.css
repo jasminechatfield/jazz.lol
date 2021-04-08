@@ -190,3 +190,46 @@ blockquote {
     position: relative; }
   blockquote:before, blockquote:after {
     font-size: 100px; }
+
+@media only screen and (min-width: 801px) and (max-width: 1299px) {
+  .header {
+    width: 800px;
+    height: 400px; }
+    .header__button {
+      width: 125px;
+      height: 125px;
+      position: static;
+      display: inline-block; }
+    .header img {
+      display: block;
+      width: 80px;
+      margin: auto;
+      position: relative;
+      top: 25px; }
+
+  main {
+    width: 600px;
+    margin-top: -100px; } }
+@media only screen and (max-width: 800px) {
+  header {
+    padding-bottom: 100px;
+    margin: auto; }
+
+  .header {
+    width: 600px;
+    height: 300px;
+    text-align: center;
+    margin: auto; }
+    .header__button {
+      width: 125px;
+      height: 125px;
+      position: static;
+      display: inline-block; }
+    .header img {
+      display: block;
+      width: 80px;
+      margin: auto; }
+
+  main {
+    width: 400px;
+    margin: auto; } }
